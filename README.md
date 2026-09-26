@@ -1,6 +1,7 @@
 # NeetCode Solutions — @lizboyer
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+No AI :)
 
 ---
 
